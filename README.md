@@ -28,4 +28,4 @@ distributed systems · local-first, privacy-preserving AI.
 Java · Python · Rust · Swift · Kotlin · TypeScript — Spring Boot · microservices · AWS · Kubernetes · Docker ·
 CI/CD — LLMs · RAG · embeddings · MCP · MLX · Ollama — PostgreSQL · MongoDB · geospatial / GIS
 
-📫 [LinkedIn](https://www.linkedin.com/in/giuseppe-gambino/) · 🌦️ [weathersicily.it](https://weathersicily.it)
+🌐 [giuseppegambino.it](https://giuseppegambino.it) · 📫 [LinkedIn](https://www.linkedin.com/in/giuseppe-gambino/) · 🌦️ [weathersicily.it](https://weathersicily.it)
