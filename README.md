@@ -5,7 +5,7 @@ mission-critical software for Public Administration, Healthcare, Energy and Defe
 [Engineering Ingegneria Informatica](https://www.eng.it).
 
 I'm also the founder and lead architect of **[Weather Sicily](https://weathersicily.it)**, a meteorological
-platform serving 100,000+ monthly users: numerical weather models, real-time nowcasting, 120+ live webcams,
+platform I built and run single-handedly (~400,000 users in 2025, ~20,000 app downloads): numerical weather models, real-time nowcasting, 120+ live webcams,
 600+ weather stations and native apps across Android and the whole Apple ecosystem.
 
 **Focus:** software architecture · cloud-native systems (AWS, Kubernetes) · LLMs, RAG and AI agents ·
